@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T08:18:02.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="cvYsf_891d94T5tXFgOa" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T08:18:58.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="8YI_BVqWkqIKFqW7mN3g" version="14.2.6" type="github">
   <diagram id="qckIohaBVqTBtv-2DZ_J" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="630" y="553" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Bc9pHEoEqULs6tNEutBZ-73" value="&lt;b&gt;Scan type&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Quick&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Full&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="60" width="110" height="60" as="geometry" />
+          <mxGeometry x="605" y="60" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bc9pHEoEqULs6tNEutBZ-75" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Bc9pHEoEqULs6tNEutBZ-2" target="Bc9pHEoEqULs6tNEutBZ-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
