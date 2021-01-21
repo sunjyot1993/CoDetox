@@ -1,1 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T07:23:10.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="1H1BCof-Uft-kIr3WqT9" version="14.2.6" type="github"><diagram id="qckIohaBVqTBtv-2DZ_J" name="Page-1">7Vpbd+I2EP41PC7HFwzhMRB2t+fs9uSEzWm3b8IWtlrb8kpygP76jiz5bhM2BUx6+kKssS6j+WZG38gZ2cto/4mhJPhKPRyOLMPbj+yHkWXNLQN+peCgBI5jKYHPiKdEZilYk7+xFupxfko8zGsdBaWhIEld6NI4xq6oyRBjdFfvtqVhfdUE+bglWLsobEt/I54IlPTOMUr5Z0z8IF/ZNPSbCOWdtYAHyKO7ishejewlo1Sop2i/xKG0XW4XNe5jz9tCMYZjccqAhTtPPq/o6sfzFz4Vv65Ssfjjg57lBYWp3rBWVhxyC2APDKKblImA+jRG4aqULhhNYw/LZQxolX2+UJqA0AThn1iIg0YXpYKCKBBRqN+qNeVCvXvTIk5T5uIjG9L6C8R8LI70mxQIgOdiGmHBDjCO4RAJ8lLXA2kf8ot+pZnhQVv6J6xutaz+DW3AlICgfS9/rWkIyi828ODLh084xgwJ2eOec8x5JA2je4EKRcdiJMslzxzDs7EMifsXhwcaw0/PfMbzL1LiCiJ7Nf0gDCHoJN67gAi8TlAGxA7CvgvNF8wE3h/Hs21/PcA2HTVEZ42JjqFdGYLmnZYF1fDLo+/skNn/tUCZnBgo8yEDZdKy+gJz6aiPDIGXutKBlzT2iPRYnsFBGRgYppVuLgLcFU01l29N2BVUYCYVn2BoCYBUCMLHGzhIjFqQmLOOKJnb7SiZXypInCFiAu+J+F0OHzu69b3y5mGvZ84aB904YxzNT4wj0+gG8zqBNH0vyID92aEySDa/V9+Vw7LWkIj2hOd1EJ29F0SHQMYeEpm794LMe4o1a0hE5y0acr8VGa12aZSEWPFlmNtIFdsmkoskDHMwSEZHdgROZNjnjsoXRJIIN0BMZJwloDsS+wVf+UYFkio94C1UtHJzlrF2GUmy3sh1KfN0f9pFb2AciYnSyXgC88i+nawGxd6rEyyB5/g0M3a9e3UuKKvDfBMeEig3ga/rDG/cWgT+okiSonjDk0rlUldxQHoFNGk8q5chBXOqMCygYWOnoxJxLkWyctZXK0XOVy+uG96oDSY3UmHNDEsvbOFTpjHzKhhN6gzYcew2A5501IkXY8Bm14VKb/khQ+QJ8zSUT00guuBqguNhgUiYlfXbirDMGzzPGwMDdYNItS9hWki1i81a6biGGOgpGF+LqjiNIEDDGoQqvXI1aZk64XkjLYmRK4+QjdIpKXUSARJ5wu2vTK8emnYTcbNIp1XQnS7QrTylnh/2roucY/cDGcguksnuLUBncGZsICMGXvVodZtHqxpCX6RryJ3wAxc4Kp1iYEinLUiHDuLZCWiuXZTdBR0SfFqSzWUeeanZe/ojlXf1CzCg+IBC4sfqtjbEW1G+bc7CE7m8kpnjUXa9Wlm1+roizta+tDqWVOdjKs38U/r0uqFxFTd07upuOO249jI7vHB6MS90OrywyVxj715+joJWTGPJYD3EgyJ4q5VcUZXVarKyROupyvIKMK/5KqOuUZvrLb9ayc16avMKel1HQi47ueDTKzxSkqXx/M604TvF17l8CrVPPar0i9ZEzeOtuHzNJ1KGaE2UOVix7X/hc9PezHeeRNFdDTJVTsrx/YnzWvnrFtPpExRGEVAH70aUsqVSD4S7Kec3otLRU/jairWct6pA1fV7byu6NK7KiguUWtD07PMqsWSOv6IY+RhtSEjE4ZJLWePnxGfIayxVQm+P19hN2YXVmIz1Z/DVHng4wXHtQ9/Zl3PGj5htKYvQkYWGZlGzxkl411GcdX5jvxyPmv3Po06+EVcE4GZ4VJP+vJVHtQjZm3kUNMt/rlLdy/9Qs1f/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-21T07:25:06.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_6nnEG_r2rR9QNL0Zbrh" version="14.2.6" type="github">
+  <diagram id="qckIohaBVqTBtv-2DZ_J" name="Page-1">
+    <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Bc9pHEoEqULs6tNEutBZ-2" target="Bc9pHEoEqULs6tNEutBZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-2" value="Table : &lt;b&gt;Generate Assessment&lt;/b&gt;&lt;br&gt;User Clicks on Generate Assessment UI Action" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="315" y="40" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Bc9pHEoEqULs6tNEutBZ-4" target="Bc9pHEoEqULs6tNEutBZ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-4" value="Best Practice Conditions stored in the &lt;b&gt;Assessment Best Practice&lt;/b&gt; table are evaluated" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="170" width="193" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Bc9pHEoEqULs6tNEutBZ-9" target="Bc9pHEoEqULs6tNEutBZ-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bc9pHEoEqULs6tNEutBZ-9" target="Bc9pHEoEqULs6tNEutBZ-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Bc9pHEoEqULs6tNEutBZ-9" target="Bc9pHEoEqULs6tNEutBZ-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Bc9pHEoEqULs6tNEutBZ-9" target="Bc9pHEoEqULs6tNEutBZ-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-9" value="After completion, user is presented with two pie charts showing the Total Defective Scripts according to &lt;b&gt;Definition Rating&lt;/b&gt; and &lt;b&gt;Definition Category and &lt;/b&gt;following data is generated.&lt;b&gt;&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290.75" y="290" width="231.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-10" value="&lt;b&gt;Generate Assessment&lt;/b&gt;&lt;br&gt;Showing the parent assessment record" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="553" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-11" value="&lt;b&gt;Assessments Results&lt;br&gt;&lt;/b&gt;Showing the details of the defective scripts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="553" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-12" value="&lt;b&gt;Best Practice Assessment Score&lt;/b&gt;&lt;br&gt;Showing the numeral details and score generated by each best practice that is evaluated" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="430" y="551.75" width="150" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-13" value="&lt;b&gt;Assessment Scorecard&lt;/b&gt;&lt;br&gt;Showing the scores per definition category and the overall system score" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="630" y="553" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-73" value="&lt;b&gt;Scan type&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Act&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Full&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="60" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-75" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Bc9pHEoEqULs6tNEutBZ-2" target="Bc9pHEoEqULs6tNEutBZ-73" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="220" as="sourcePoint" />
+            <mxPoint x="430" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-76" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;Definition rating:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. Act&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. Discuss&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. Recommend&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;span&gt;Definition&amp;nbsp;&lt;/span&gt;&lt;span&gt;Category:&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;1.Manageability&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;2.Upgradability&lt;br&gt;3.Security&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;4.User Experience&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;5.Performance&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="285" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Bc9pHEoEqULs6tNEutBZ-77" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Bc9pHEoEqULs6tNEutBZ-9" target="Bc9pHEoEqULs6tNEutBZ-76" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="430" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ue3O4eQKkO63XpMaeiB2-1" value="In Progress" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="530" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ue3O4eQKkO63XpMaeiB2-2" value="In Progress" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="530" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
